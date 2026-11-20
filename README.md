@@ -8,4 +8,4 @@ Ditto, with an additional red-colored stick figure walking slower than the other
 ## Movey4
 Ditto, with an additional green-colored stick figure walking faster than the others.
 ## Movey5
-Ditto, with an additional text box saying BEEP & BOOP like a DVD screensaver.
+Ditto, with an additional text box saying BEEP & BOOP, moving like a DVD screensaver.
